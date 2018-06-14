@@ -1,5 +1,5 @@
 # RGB-breathing-light
-from Adafruit_NeoPixel to lamp ring breathing light
+#from Adafruit_NeoPixel to lamp ring breathing light
 #include <Adafruit_NeoPixel.h>
 const int i;
 
